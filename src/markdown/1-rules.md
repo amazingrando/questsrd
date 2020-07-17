@@ -3,25 +3,23 @@ slug: "/rules"
 title: "1. Rules"
 ---
 
-# 1. rules
-
 ## the game
 
 Quest works best with 4-6 players.
 
 First, choose one player to be the guide. The Guide plays as the story's narrator.
 
-Everyone else will create one of the story's main characters, and then play as the character they created. These player characters are allies in an adventuring group called the party.
+Everyone else will create one of the story's main characters, and then play as the character they created. These <span class="keywords">player characters</span> are allies in an adventuring group called <span class="keywords">the party</span>.
 
 The Guide plays the part of the world around the party, like the director of a movie. They imagine the people, places, and things the party encounters. Then, they help everyone imagine the world of the game by describing it.
 
-The Guide also plays the part of all of the characters in the story, like towns.people and monsters. We call them non-player characters, or npcs.
+The Guide also plays the part of all of the characters in the story, like towns.people and monsters. We call them <span class="keywords">non-player characters</span>, or <span class="keywords">npcs</span>.
 
 Finally, the Guide is responsible for creating consequences for the party's actions. That means imagining what happens next when a player springs a trap or makes an NPC angry.
 
 The Guide and the party have different responsibilities, but they are equals � partners in storytelling.
 
-how to play
+## how to play
 
 The game is played by having a conver.saiton with friends. It begins like this:
 
@@ -31,7 +29,7 @@ Next, members of the party say what their characters do. They can do anything th
 
 Then, the Guide imagines what happens next and describes the scene again.
 
-action scenes
+## action scenes
 
 Usually the action in the game will flow freely while players speak, act, and think about what to do next.
 
@@ -39,87 +37,91 @@ In an action scene (like during combat), players take turns. During a turn, char
 
 The Guide decides whose turn it is based on what's happening in the story. When each member of the party has taken a turn, the party's round ends. Then, the Guide gets a round for the creatures they control. Repeat this process until a conclusion is reached in the scene.
 
-distances
+## distances
 
 Quest uses four relative bands of distance for resolving actions.
 
-in reach
+### in reach
 
 If something is in reach, a character can touch or hit it from where they stand.
 
-nearby
+### nearby
 
 If something is nearby, a character can move to be within reach of it during their turn.
 
-in range
+### in range
 
 If something is in range, a character can hit it with a ranged attack this turn.
 
-too far
+### too far
 
 If something is too far, it's beyond a character's range this turn. They will have to get closer.
 
-rolling the die
+## rolling the die
 
 Players roll the die in Quest to let fate decide what happens next. The Guide will ask players to roll when they try to do something risky, or when chance makes things fun.
 
-important: Die rolls by default in Quest are purely a measure of luck, not of skill. We consider skill in this game to be captured by each Role's unique set of abilites, and by how players decide to use those abilities.
+<div class="callout">
+  <span class="text-uppercase">important:</span> Die rolls by default in Quest are purely a measure of luck, not of skill. We consider skill in this game to be captured by each Role's unique set of abilites, and by how players decide to use those abilities.
+</div>
 
 Characters must roll every time they make a basic attack. A basic attack is made when a character uses a weapon or their body to attack something. Special abilities only require rolls if they explicit.ly ask for one.
 
-outcomes
+## outcomes
 
-20: triumph
+### 20: triumph
 
 The character automatically succeeds at what they were trying to do, and may find added fortune from The Guide. Damage dealt is doubled.
 
-11-19: success
+### 11-19: success
 
 The character accomplishes what they were trying to do without any compro.mises. Standard damage is dealt.
 
-6-10: tough choice
+### 6-10: tough choice
 
 The character succeeds in what they were trying to do, but there's a cost. If a party member rolls a tough choice, The Guide offers two setbacks to choose from.
 
-1-5: failure
+### 1-5: failure
 
 The character fails. The Guide chooses a setback for the failure.
 
-1: catastrophe
+### 1: catastrophe
 
 The character automatically fails and The Guide may create a severe setback.
 
-deadly scenes
+## deadly scenes
 
-A creature's mortality is measured by hit points, or hp. Reduction of HP is referred to as �damage.� All player characters begin with 10 HP, and 10 HP is the maximum amount of HP they can have in the game.
+A creature's mortality is measured by <span class="keywords">hit points</span>, or <span class="keywords">hp</span>. Reduction of HP is referred to as "damage." All player characters begin with 10 HP, and 10 HP is the maximum amount of HP they can have in the game.
 
 Creatures who lose HP are not necessar.ily harmed. Consider HP a measure of fate and not necessarily health.
 
-harm and recovery
+## harm and recovery
 
 There are two primary ways characters can regain hit points.
 
-regroup. When characters rest for a short time with no enemies nearby, they regain up to the halfway point of their maximum hit points. For example, if a character regroups while at 3 HP, they would recover 2 HP. If they regroup while at 0 HP, they would recover 5 HP.
+<span class="keywords">regroup.</span> When characters rest for a short time with no enemies nearby, they regain up to the halfway point of their maximum hit points. For example, if a character regroups while at 3 HP, they would recover 2 HP. If they regroup while at 0 HP, they would recover 5 HP.
 
-rest. When a character completes a full night's rest while in a safe place, they recover all of their hit points.
+<span class="keywords">rest.</span> When a character completes a full night's rest while in a safe place, they recover all of their hit points.
 
-injury and death
+## injury and death
 
 Characters cannot be seriously hurt until they run out of HP. When player characters drop to 0 HP, they are on death's door. They cannot go below 0 HP, but will remain there until they regroup, rest, or heal. (NPCs do not use this system; any NPC reduced to 0 HP is incapacitated or dies, at the discretion of the Guide.)
 
 If a player character is hit while at 0 HP, they must roll the die. If the result is equal to or less than the hit, their character dies. For example, if a sword hits them for 2 HP while on death's door, they are killed if they roll a 1 or a 2. Characters who survive a death roll may still suffer some other setback, like falling unconscious or receiving a permanent injury.
 
-common weapon damage
+## common weapon damage
 
 Basic unarmed attacks (like punches and kicks) deal 1 damage.
 
 Common weapons, like swords, bows & arrows, daggers, clubs, etc. deal 2 damage. To keep the game balanced, we recommend using the 2 damage stan.dard for any style of common weapon in the game.
 
-a note on hit points
+<div class="callout">
+  <p><span class="text-uppercase">a note on hit points</span></p>
 
-A key part of the design of Quest is to limit the amount of concepts that scale, especially where numbers are involved. To prevent inflation of stats, we keep HP the same for the player characters through the whole game. As they learn more powerful abilities, they become better able to deal with challenges despite a constant amount of HP.
+  <p>A key part of the design of Quest is to limit the amount of concepts that scale, especially where numbers are involved. To prevent inflation of stats, we keep HP the same for the player characters through the whole game. As they learn more powerful abilities, they become better able to deal with challenges despite a constant amount of HP.</p>
+</div>
 
-abilities
+## abilities
 
 Player characters begin with 6 special abilities of their choice. Each ability is part of a learning path, and players must learn new abilities in order in each path. Players may choose abilities from any path, and do not have to complete a learning path before choosing abilities from a different path.
 
@@ -127,7 +129,7 @@ Players cannot choose to learn Legendary abilities. These abilities are only mad
 
 In-between each play session, player characters may choose a new ability that they can use during the next session. The Guide may modify this rate of growth at their discretion.
 
-adventure points
+## adventure points
 
 If an ability in the catalog has an activation cost, players must spend AP to use that ability. Players begin the game with 10 AP, and earn 5 AP at the conclusion of each session. Beyond this automatic reward, The Guide may offer AP to players at their discretion, as they roleplay, solve puzzles, defeat villains, reach goals, or encourage fun.
 
@@ -135,97 +137,74 @@ Adventure Points don't recharge. Once spent, they are gone.
 
 When a player spends AP to activate an ability, they must immediately deduct it from their adventure point balance.
 
-3
-
-Activation costs look like this. (This ability would cost 3 AP to use.)
+<span class="adventure-points">3</span> Activation costs look like this. (This ability would cost 3 AP to use.)
 
 Some abilities can be used in different ways and have multiple activation costs. Take the example below:
 
-2
+<span class="adventure-points">2</span> You create a small bolt of flame.
 
-You create a small bolt of flame.
+<span class="adventure-points">4</span> You create a huge fireball.
 
-4
+In this example, a player could spend 2 AP to create a small bolt of flame, or instead spend 4 AP to create a huge fireball. If an activation cost has an "X," it means the player may choose how much AP to spend on the ability.
 
-You create a huge fireball.
-
-In this example, a player could spend 2 AP to create a small bolt of flame, or instead spend 4 AP to create a huge fireball. If an activation cost has an �X,� it means the player may choose how much AP to spend on the ability.
-
-the spy's toolkit
+## the spy's toolkit
 
 The Spy is a master of practical means and is the only role that can craft bespoke magical items. These items are listed in the catalog alongside abilities, and the Spy can acquire them at the end of a session like players can any other ability. However, these items can be lost or broken like any other object. The Spy may spend 2 AP to rebuild a lost or broken item. Items must be rebuilt during downtime in the story.
 
 Other creatures may hold the Spy's items, but only the Spy can activate their magic capabilities.
 
-�at the table�
+## "at the table"
 
 If an ability asks a player to do some.thing at the table, that means doing it in the real world. If they can't do it, that's okay; they may ask another player to assist them, or just ignore the require.ment.
 
 If someone is uncomfortable performing one of the game's abilities, like reading poetry, they may describe how their character performs the ability instead of doing it themselves.
 
-�roll the die�
+## "roll the die"
 
 If this badge appears in an ability, it means the player must to roll the die to see what happens when the ability is used.
 
-roll the die
+<span class="rollthedie">roll the die</span>
 
 As usual, the Guide will decide what the consequences of the die roll are. But if an ability lists its own set of special consequences, the Guide will use those instead.
 
-important keywords
+## important keywords
 
-objects. Any inanimate thing in a scene, like a door or a chair.
+<span class="keywords">objects.<span> Any inanimate thing in a scene, like a door or a chair.
 
-creatures. Any sentient being, including both NPCs and player characters. People, humans, dogs, aliens, talking trees � yes, anything.
+<span class="keywords">creatures.</span> Any sentient being, including both NPCs and player characters. People, humans, dogs, aliens, talking trees — yes, anything.
 
-non-player characters (npcs). Any creature played by the Guide.
+<span class="keywords">non-player characters (npcs).</span> Any creature played by the Guide.
 
-spirits. Ethereal creatures who do not have physical bodies. Think of them like ghosts who float through the world. Many spirits are invisible.
+<span class="keywords">spirits.</span> Ethereal creatures who do not have physical bodies. Think of them like ghosts who float through the world. Many spirits are invisible.
 
-animals. Sentient creatures without self-awareness or personhood, like cats, dogs, giant eagles, and insects.
+<span class="keywords">animals.</span> Sentient creatures without self-awareness or personhood, like cats, dogs, giant eagles, and insects.
 
-bosses. Unique creatures of power, intellect, or importance who are resistant to some abilities.
+<span class="keywords">bosses.</span> Unique creatures of power, intellect, or importance who are resistant to some abilities.
 
-minions. Creatures that are more power.ful than average, like a villain's groupies or the town guard.
+<span class="keywords">minions.</span> Creatures that are more power.ful than average, like a villain's groupies or the town guard.
 
-commoners. Normal people, common animals, or other average creatures. Think of them like extras in the back.ground of a movie.
+<span class="keywords">commoners.</span> Normal people, common animals, or other average creatures. Think of them like extras in the back.ground of a movie.
 
-plane. A discrete location in the omniverse.
+<span class="keywords">plane.</span> A discrete location in the omniverse.
 
-buying things
+## buying things
 
-basic goods
+### basic goods
 
 Players can meet their basic needs in most places without having to pay for them. This includes things of average quality that their character needs as a matter of routine, like food and drink, a modest dwelling, and inexpensive items, like the things that stock the shelves of a convenience store.
 
 Here are some examples of basic items that players can get most places without paying for them:
 
-..
-
-A modest meal at a restaurant.
-
-..
-
-An average dwelling, like an apart.ment.
-
-..
-
-Room and board at an inn.
-
-..
-
-Riding fare for public transit.
-
-..
-
-Common clothes.
-
-..
-
-Mundane items, like string, ink, postage, candles, firewood, groceries, and small tools.
+- A modest meal at a restaurant.
+- An average dwelling, like an apart.ment.
+- Room and board at an inn.
+- Riding fare for public transit.
+- Common clothes.
+- Mundane items, like string, ink, postage, candles, firewood, groceries, and small tools.
 
 There's no exhaustive list of what counts as a basic good, and what qualifies depends on the context of the scene. For example, if the players are in a hostile town where the locals really don't like them, they may try to charge the players for things that they can get for free elsewhere. The Guide is responsible for deciding whether something qualifies as a basic good.
 
-trading
+### trading
 
 If the players want something valuable, like a shiny sword from a merchant or a room in a fancy hotel, they might have to trade one of their own valuable posses.sions for it. There is no money in Quest, only the items of value that players carry.
 
@@ -233,23 +212,22 @@ To get something from an NPC, players can offer something in exchange. It can be
 
 If players get stuck in a negotiation, they can ask the Guide to let them roll the die to see if the offer succeeds.
 
-Trading is based on communication, perception, and feelings. There's no definitive guide to the value of items �
+Trading is based on communication, perception, and feelings. There's no definitive guide to the value of items — only what people want and how much they want it.
 
-only what people want and how much
-
-they want it.
-
-inventory
+## inventory
 
 Players are limited to personally carrying a total of 12 (twelve) things. Each of these 12 things should be reasonable able to fit in a backpack or on their person. They can choose any configuration of packs, but altogether, they can only hold 12 things.
 
-If something is a kit, like a sewing or first aid kit, it only counts as one thing. The outfit players are wearing and miscella.neous items, like a personal letter, a pen, or a decorative pin, don't count against the limit. The Guide is responsible for deciding what counts against the inven.tory limit.
+If something is a kit, like a sewing or first aid kit, it only counts as one thing. The outfit players are wearing and miscella.neous items, like a personal letter, a pen, or a decorative pin, don't count against the limit. The Guide is responsible for deciding what counts against the inventory limit.
 
-general rules
+## general rules
 
-addressing the reader
+<div class="callout">
+<p><span class="text-uppercase">addressing the reader</span></p>
 
-While other parts of this resource have been converted to address Guides and players in the third-per.son, we recommend that you address the players as �you/your� when possible, especially for the general rules that follow. We've included the general rules in this document with the original language as it was addressed to the reader.
+While other parts of this resource have been converted to address Guides and players in the third-per.son, we recommend that you address the players as "you/your" when possible, especially for the general rules that follow. We've included the general rules in this document with the original language as it was addressed to the reader.
+
+</div>
 
 be respectful
 
