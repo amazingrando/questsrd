@@ -1,6 +1,19 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import {
+  Collapse,
+  Navbar,
+  NavbarToggler,
+  NavbarBrand,
+  Nav,
+  NavItem,
+  NavLink,
+} from "reactstrap"
+
+const [isOpen, setIsOpen] = useState(false)
+
+const toggle = () => setIsOpen(!isOpen)
 
 const Header = ({ siteTitle }) => (
   <header
@@ -10,6 +23,29 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
+    <Navbar color="light" light expand="md">
+      <NavbarBrand href="/">reactstrap</NavbarBrand>
+      <NavbarToggler onClick={toggle} />
+      <Collapse isOpen={isOpen} navbar>
+        <Nav className="mr-auto" navbar>
+          <NavItem>
+            <NavLink href="#">Rules</NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="#">Character Creation</NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="#">Roles, Abilities, &amp; Treasure</NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="#">NPCs</NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="#">Additional Resources</NavLink>
+          </NavItem>
+        </Nav>
+      </Collapse>
+    </Navbar>
     <div
       style={{
         margin: `0 auto`,
