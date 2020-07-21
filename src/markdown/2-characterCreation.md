@@ -1,7 +1,9 @@
 ---
 slug: "/character-creation"
-title: "2. character creation"
+title: "Character Creation"
+order: 2
 ---
+
 # 2. character creation
 
 helping players make characters

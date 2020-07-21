@@ -27,6 +27,7 @@ const typography = new Typography({
   ],
   bodyFontFamily: ["Ovo", "Georgia", "serif"],
   blockMarginBottom: `1rem`,
+  scaleRatio: 2.5,
 })
 
 export default typography

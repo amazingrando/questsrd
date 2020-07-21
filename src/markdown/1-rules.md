@@ -1,6 +1,7 @@
 ---
 slug: "/rules"
-title: "1. Rules"
+title: "Rules"
+order: 1
 ---
 
 ## the game
