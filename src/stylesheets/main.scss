@@ -13,6 +13,13 @@
 
 $breakpoint-lg: 900px;
 $breakpoint-lt-lg: $breakpoint-lg - 1px;
+$breakpoint-xlg: 1100px;
+
+@mixin xlarge {
+  @include breakpoint($breakpoint-xlg) {
+    @content;
+  }
+}
 
 @mixin large {
   @include breakpoint($breakpoint-lg) {
@@ -157,8 +164,17 @@ body {
 
       li {
         margin: 0 1.5rem 0 0;
-        font-size: 1.3rem;
+        font-size: 1rem;
         line-height: 1;
+      }
+    }
+  }
+
+  @include xlarge {
+    ul,
+    ul.hide {
+      li {
+        font-size: 1.3rem;
       }
     }
   }
@@ -207,8 +223,8 @@ body {
   pointer-events: none;
   border-color: rgba(136, 183, 213, 0);
   border-left-color: var(--color-dark);
-  border-width: 14px;
-  margin-top: -14px;
+  border-width: 10px;
+  margin-top: -10px;
 }
 
 .rollthedie {
