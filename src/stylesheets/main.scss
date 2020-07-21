@@ -11,7 +11,8 @@
   --content-width: 800px;
 }
 
-$breakpoint-lg: 700px;
+$breakpoint-lg: 900px;
+$breakpoint-lt-lg: $breakpoint-lg - 1px;
 
 @mixin large {
   @include breakpoint($breakpoint-lg) {
@@ -19,6 +20,13 @@ $breakpoint-lg: 700px;
   }
 }
 
+@mixin lt-large {
+  @include breakpoint(max-width $breakpoint-lt-lg) {
+    @content;
+  }
+}
+
+@import "../../node_modules/normalize.css/normalize.css";
 @import "../../node_modules/bootstrap/scss/_mixins.scss";
 @import "../../node_modules/bootstrap/scss/_functions.scss";
 @import "../../node_modules/bootstrap/scss/_variables.scss";
@@ -102,39 +110,48 @@ body {
     }
   }
 
-  ul {
-    width: 100%;
-    transition: all 0.1s;
+  @include lt-large {
+    ul {
+      width: 100%;
+      transition: all 0.1s;
 
-    &.hide {
-      opacity: 0;
-      transform: translateY(-50px);
-      top: -100px;
-      position: absolute;
-      transition: none;
-    }
-    &.show {
-      opacity: 1;
-      transform: translateY(0px);
-      top: 0;
-      position: relative;
-      margin-top: 1rem;
-    }
+      &.hide {
+        opacity: 0;
+        transform: translateY(-50px);
+        top: -100px;
+        left: 0;
+        position: absolute;
+        transition: none;
 
-    li {
-      border-bottom: 1px solid rgba(255, 255, 255, 0.15);
-      font-size: 1rem;
-      line-height: 1;
-    }
+        a {
+          pointer-events: none;
+        }
+      }
 
-    a {
-      display: block;
-      padding: 0.5rem 0;
+      &.show {
+        opacity: 1;
+        transform: translateY(0px);
+        top: 0;
+        position: relative;
+        margin-top: 1rem;
+      }
+
+      li {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+        font-size: 1rem;
+        line-height: 1;
+      }
+
+      a {
+        display: block;
+        padding: 0.5rem 0;
+      }
     }
   }
 
   @include large {
-    ul {
+    ul,
+    ul.hide {
       display: flex;
       flex-flow: row nowrap;
 
