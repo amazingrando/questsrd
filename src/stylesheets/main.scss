@@ -157,6 +157,7 @@ body {
   }
 
   @include large {
+
     ul,
     ul.hide {
       display: flex;
@@ -171,6 +172,7 @@ body {
   }
 
   @include xlarge {
+
     ul,
     ul.hide {
       li {
@@ -239,10 +241,44 @@ body {
   top: -2px;
 }
 
-* + h2 {
+*+h2 {
   margin-top: 3rem;
 }
 
 h3 {
   font-weight: 400;
+}
+
+.site-footer {
+  margin-top: 2rem;
+  background: rgba(0, 0, 0, 0.9);
+  color: var(--color-light);
+  padding: 2rem;
+  text-align: center;
+
+  @include large {
+    padding: 2rem 4rem;
+  }
+
+  &__logo {
+    margin: 0 auto 1rem;
+    max-width: 300px;
+
+    @include large {
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      max-width: 200px;
+    }
+  }
+
+  a {
+    color: var(--color-light);
+  }
+
+  p {
+    margin: 0 auto 3rem;
+    font-family: var(--font-sans-serif);
+    opacity: .8;
+    max-width: var(--content-width);
+  }
 }
