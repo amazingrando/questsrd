@@ -63,7 +63,7 @@ If something is too far, it's beyond a character's range this turn. They will ha
 Players roll the die in Quest to let fate decide what happens next. The Guide will ask players to roll when they try to do something risky, or when chance makes things fun.
 
 <div class="callout">
-  <span class="text-uppercase">important:</span> Die rolls by default in Quest are purely a measure of luck, not of skill. We consider skill in this game to be captured by each Role's unique set of abilites, and by how players decide to use those abilities.
+  <span class="text-uppercase">important</span>: Die rolls by default in Quest are purely a measure of luck, not of skill. We consider skill in this game to be captured by each Role's unique set of abilites, and by how players decide to use those abilities.
 </div>
 
 Characters must roll every time they make a basic attack. A basic attack is made when a character uses a weapon or their body to attack something. Special abilities only require rolls if they explicitly ask for one.
@@ -100,9 +100,9 @@ Creatures who lose HP are not necessarily harmed. Consider HP a measure of fate 
 
 There are two primary ways characters can regain hit points.
 
-<span class="keywords">regroup.</span> When characters rest for a short time with no enemies nearby, they regain up to the halfway point of their maximum hit points. For example, if a character regroups while at 3 HP, they would recover 2 HP. If they regroup while at 0 HP, they would recover 5 HP.
+<span class="keywords">regroup</span>. When characters rest for a short time with no enemies nearby, they regain up to the halfway point of their maximum hit points. For example, if a character regroups while at 3 HP, they would recover 2 HP. If they regroup while at 0 HP, they would recover 5 HP.
 
-<span class="keywords">rest.</span> When a character completes a full night's rest while in a safe place, they recover all of their hit points.
+<span class="keywords">rest</span>. When a character completes a full night's rest while in a safe place, they recover all of their hit points.
 
 ## injury and death
 
@@ -170,23 +170,23 @@ As usual, the Guide will decide what the consequences of the die roll are. But i
 
 ## important keywords
 
-<span class="keywords">objects.<span> Any inanimate thing in a scene, like a door or a chair.
+<span class="keywords">objects</span>. Any inanimate thing in a scene, like a door or a chair.
 
-<span class="keywords">creatures.</span> Any sentient being, including both NPCs and player characters. People, humans, dogs, aliens, talking trees — yes, anything.
+<span class="keywords">creatures</span>. Any sentient being, including both NPCs and player characters. People, humans, dogs, aliens, talking trees — yes, anything.
 
-<span class="keywords">non-player characters (npcs).</span> Any creature played by the Guide.
+<span class="keywords">non-player characters (npcs)</span>. Any creature played by the Guide.
 
-<span class="keywords">spirits.</span> Ethereal creatures who do not have physical bodies. Think of them like ghosts who float through the world. Many spirits are invisible.
+<span class="keywords">spirits</span>. Ethereal creatures who do not have physical bodies. Think of them like ghosts who float through the world. Many spirits are invisible.
 
-<span class="keywords">animals.</span> Sentient creatures without self-awareness or personhood, like cats, dogs, giant eagles, and insects.
+<span class="keywords">animals</span>. Sentient creatures without self-awareness or personhood, like cats, dogs, giant eagles, and insects.
 
-<span class="keywords">bosses.</span> Unique creatures of power, intellect, or importance who are resistant to some abilities.
+<span class="keywords">bosses</span>. Unique creatures of power, intellect, or importance who are resistant to some abilities.
 
-<span class="keywords">minions.</span> Creatures that are more powerful than average, like a villain's groupies or the town guard.
+<span class="keywords">minions</span>. Creatures that are more powerful than average, like a villain's groupies or the town guard.
 
-<span class="keywords">commoners.</span> Normal people, common animals, or other average creatures. Think of them like extras in the background of a movie.
+<span class="keywords">commoners</span>. Normal people, common animals, or other average creatures. Think of them like extras in the background of a movie.
 
-<span class="keywords">plane.</span> A discrete location in the omniverse.
+<span class="keywords">plane</span>. A discrete location in the omniverse.
 
 ## buying things
 
@@ -235,19 +235,19 @@ Quest works best when people treat each other and the conversation with mutual r
 
 The game doesn't work when people are angry, rude, or uninterested in what's going on. In the real world outside of the game, everyone deserves to be treated with respect. When you decide to spend your time sharing a story together, you should do your best to make sure everyone has a good time.
 
-<span class="keywords">respect boundaries.</span> Don't say things to people either out of character or in roleplaying that make them uncomfortable in the real world.
+<span class="keywords">respect boundaries</span>. Don't say things to people either out of character or in roleplaying that make them uncomfortable in the real world.
 
 Don't introduce extreme concepts into the game, like torture or sexual violence, unless everyone agrees beforehand that they are acceptable to use in your story.
 
-<span class="keywords">let your friends talk.</span> Everyone should get a chance to speak without being interrupted. Make sure you are not dominating all of the conversation or action. Share the story.
+<span class="keywords">let your friends talk</span>. Everyone should get a chance to speak without being interrupted. Make sure you are not dominating all of the conversation or action. Share the story.
 
-<span class="keywords">only play your character.</span> Don't tell other people what to do, even if you think you have the best idea. You can't win or lose a game of Quest in the traditional sense. People are often supposed to fail or do silly things, especially if they are roleplaying.
+<span class="keywords">only play your character</span>. Don't tell other people what to do, even if you think you have the best idea. You can't win or lose a game of Quest in the traditional sense. People are often supposed to fail or do silly things, especially if they are roleplaying.
 
-<span class="keywords">be nice to your guide.</span> It takes a lot of work to prepare for the game and keep it running over time. Show respect for your Guide by paying attention when they are helping tell the story. It can feel hurtful when people are distracted.
+<span class="keywords">be nice to your guide</span>. It takes a lot of work to prepare for the game and keep it running over time. Show respect for your Guide by paying attention when they are helping tell the story. It can feel hurtful when people are distracted.
 
 Since the Guide is bringing lots of work to the table, it's a nice gesture for the players to take turns providing things like snacks and drinks for the group.
 
-<span class="keywords">silence your phone.</span> Please.
+<span class="keywords">silence your phone</span>. Please.
 
 ## ask for consent
 
@@ -337,7 +337,7 @@ Guides should roll the die for NPCs when they make attacks against the players.
 
 ## guide rolls are public
 
-<span class="keywords">important:</span> Guides must make their rolls in public view just like all of the other players.
+<span class="keywords">important</span>: Guides must make their rolls in public view just like all of the other players.
 
 ## trials
 
