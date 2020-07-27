@@ -108,7 +108,7 @@ returning to my hometown as a renowned hero, freeing myself from a gang that wan
 
 <span class="keywords">magic flask</span>. A magic flask that automatically replenishes itself with a spirit of your choice. (Choose once.)
 
-<span class="keywords">magic candle. A powerful candle that can light itself and snuff itself out on its owner's command. It drips wax but never seems to lose any.
+<span class="keywords">magic candle</span>. A powerful candle that can light itself and snuff itself out on its owner's command. It drips wax but never seems to lose any.
 
 <span class="keywords">kiln gauze</span>. A container of magic gauze that can be used to repair broken metal weapons like swords. When the gauze is wrapped around a severed weapon, it welds the weapon back together in a flash. There is enough gauze in each container to repair one weapon.
 

@@ -72,9 +72,9 @@ Choose these abilities: Cosmopolitan, Sneak Attack, Strap, Tracker, Persona, and
 
 ## the magician
 
-The Magician flicks their wrist, delight.ing an audience with a parade of illusory animals. They mesmerize an adversary, freezing them in place. They peer beyond the eyes of another, entering their dreams and shaping their reality.
+The Magician flicks their wrist, delighting an audience with a parade of illusory animals. They mesmerize an adversary, freezing them in place. They peer beyond the eyes of another, entering their dreams and shaping their reality.
 
-Choose The Magician if you want to use spells that affect the mind and the sens.es. The role is a great choice for people who want to play a dazzling performer or a devious manipulator.
+Choose The Magician if you want to use spells that affect the mind and the senses. The role is a great choice for people who want to play a dazzling performer or a devious manipulator.
 
 ### quick start
 
@@ -82,7 +82,7 @@ Choose these abilities: Magic Tricks, Splitting Image, Magic Eye, Little Bird, B
 
 ## the wizard
 
-The Wizard utters a word of power, sending a wave of force that knocks back everything in its path. They imagine an object needed in a pinch, and conjure it from thin air. With a wave of their hand, they open a rift to unexplored dimen.sions, seeking answers beyond space and time.
+The Wizard utters a word of power, sending a wave of force that knocks back everything in its path. They imagine an object needed in a pinch, and conjure it from thin air. With a wave of their hand, they open a rift to unexplored dimensions, seeking answers beyond space and time.
 
 You can use The Wizard's dynamic role to play any kind of magic user, from a studious sage seeking spellbooks to a megalomaniacal mage pursuing absolute power.
 
@@ -153,7 +153,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">flow</span>: Enter a state of intense focus after rolling a Triumph. <span class="text-uppercase">[1 ap]</span>
 
-<span class="keywords">yawp</span>: Make a show of bravado to fright.en nearby creatures. <span class="text-uppercase">[1 ap]</span>
+<span class="keywords">yawp</span>: Make a show of bravado to frighten nearby creatures. <span class="text-uppercase">[1 ap]</span>
 
 <span class="keywords">focus</span>: You clear your mind, allowing you to surpass your normal limits. <span class="text-uppercase">[3/4/5 ap]</span>
 
@@ -207,7 +207,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">lawbringer</span>: You raise your hand into the sky and summon a deadly spectral warhammer. <span class="text-uppercase">[3 ap]</span>
 
-<span class="keywords">smite</span>: You condemn a creature, engulf.ing it in radiant flame. <span class="text-uppercase">[5 ap]</span>
+<span class="keywords">smite</span>: You condemn a creature, engulfing it in radiant flame. <span class="text-uppercase">[5 ap]</span>
 
 <span class="keywords">blazing avenger</span>: You permanently enchant a weapon, imbuing it with incredible power. <span class="text-uppercase">[6 ap]</span>
 
@@ -257,7 +257,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">read the winds</span>: You sense weather patterns, and can predict the weather in the days ahead. <span class="text-uppercase">[0/2 ap]</span>
 
-<span class="keywords">navigate</span>: You can't get lost in wilder.ness, and you can find a special natural reprieve in times of need. <span class="text-uppercase">[0/1 ap]</span>
+<span class="keywords">navigate</span>: You can't get lost in wilderness, and you can find a special natural reprieve in times of need. <span class="text-uppercase">[0/1 ap]</span>
 
 <span class="keywords">delve</span>: You sense the general layout of the next three areas in an underground structure. <span class="text-uppercase">[2 ap]</span>
 
@@ -289,7 +289,7 @@ Abilities are provided per Role, in the following format:
 
 ## legendary <span class="source">d 56 / p 79</span>
 
-<span class="keywords">wild celebrity</span>: Wild animals every.where now sense you as an ally and will not attack you. <span class="text-uppercase">[0/6 ap]</span>
+<span class="keywords">wild celebrity</span>: Wild animals everywhere now sense you as an ally and will not attack you. <span class="text-uppercase">[0/6 ap]</span>
 
 <span class="keywords">slayer</span>: You devastate a group of minions in an impressive acrobatic fashion, reducing their numbers by half. <span class="text-uppercase">[4 ap]</span>
 
@@ -313,7 +313,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">thorn</span>: You conjure a poisonous thorn and shoot it toward a nearby target.
 
-<span class="keywords">wild font</span>: You touch a container hold.ing food, water, or oil, causing it to spill an excess of its contents. <span class="text-uppercase">[1 ap]</span>
+<span class="keywords">wild font</span>: You touch a container holding food, water, or oil, causing it to spill an excess of its contents. <span class="text-uppercase">[1 ap]</span>
 
 <span class="keywords">evening star</span>: You summon a wisp of light in the sky, casting daylight on a huge area. <span class="text-uppercase">[2 ap]</span>
 
@@ -325,7 +325,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">freeze</span>: You blow cool air, creating freezing winds that swirl around a nearby target.
 
-<span class="keywords">burn</span>: You blow hot air, creating scorch.ing winds that can ignite a target in flame nearby. <span class="text-uppercase">[0/1 ap]</span>
+<span class="keywords">burn</span>: You blow hot air, creating scorching winds that can ignite a target in flame nearby. <span class="text-uppercase">[0/1 ap]</span>
 
 <span class="keywords">shock</span>: You call down a bolt of lightning from the sky to strike a target you can see. <span class="text-uppercase">[4 ap]</span>
 
@@ -383,7 +383,7 @@ Abilities are provided per Role, in the following format:
 
 ## alteration <span class="source">d 68 / p 93</span>
 
-<span class="keywords">sleep</span>: You whisper a brief lullaby, putting any number of nearby common.ers to sleep for an hour. <span class="text-uppercase">[2/x ap]</span>
+<span class="keywords">sleep</span>: You whisper a brief lullaby, putting any number of nearby commoners to sleep for an hour. <span class="text-uppercase">[2/x ap]</span>
 
 <span class="keywords">calcify</span>: You touch a creature, causing its surface to harden and resist damage. <span class="text-uppercase">[1 ap]</span>
 
@@ -423,7 +423,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">false sense</span>: You cause a creature to perceive a specific thing or a category of things falsely. <span class="text-uppercase">[3 ap]</span>
 
-<span class="keywords">amnesiate</span>: You touch a creature, erasing its memory for the previous month� or beyond. <span class="text-uppercase">[4/x ap]</span>
+<span class="keywords">amnesiate</span>: You touch a creature, erasing its memory for the previous month... or beyond. <span class="text-uppercase">[4/x ap]</span>
 
 ## examination <span class="source">d 72 / p 97</span>
 
@@ -674,7 +674,7 @@ Abilities are provided per Role, in the following format:
 <div class="callout">
 <span class="text-uppercase">using abilities</span>
 
-We encourage you to reference and use these abilities in your own remixed roles, whether you're making hybrid roles from the origi.nal 8, or creating entirely new roles.
+We encourage you to reference and use these abilities in your own remixed roles, whether you're making hybrid roles from the original 8, or creating entirely new roles.
 
 We also encourage using ability references when creating adventures. See the Game Book to learn how you might tempt the players' abilities in a scene or a challenge.
 
@@ -702,7 +702,7 @@ Offer a legendary item when the players complete a major story arc, or about onc
 
 ## symbols
 
-<x> This is how much damage an item deals when used to attack.
+&lt;x&gt; This is how much damage an item deals when used to attack.
 
 [1] This is the AP activation cost of a treasure item.
 

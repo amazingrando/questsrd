@@ -4,9 +4,9 @@ title: "Additional Resources"
 order: 5
 ---
 
-|co|
+<div class="callout">
 This section of the document is meant to explain some things about how we designed Quest, and how you might use the materials in this resource for your own purposes.
-|d|
+</div>
 
 ## what we hope you'll make
 
@@ -75,11 +75,11 @@ Introducing money into the game is not likely to seriously reduce compatibility.
 
 Modifying the inventory system is not likely to seriously reduce compatibility.
 
-|co|
+<div class="callout">
 |uc|important: compatibility notices</span>
 
 You may not imply that your works were created by us (The Adventure Guild) or that they are endorsed by us. You MAY indicate intended compatibility with the system by saying things like "An adventure for Quest" or "A ruleset for the Quest roleplaying game," even on the cover of what you make. We also encourage you to have a discussion about compatibility inside of your work to let players know what has changed between your work and the original game.
-|d|
+</div>
 
 # our design principles
 
@@ -147,9 +147,9 @@ It's good to ask for feedback and test your work with people from different pers
 
 It's good to consider feedback, but design by committee can end up creating something that tries to appeal to every.one while actually appealing to very few people. You can always change things later if it doesn't work how you expected.
 
-### typography & style
+# typography & style
 
-basic style guide
+## basic style guide
 
 We use all open-source fonts in official Quest materials. These fonts are freely available via Google Fonts.
 
