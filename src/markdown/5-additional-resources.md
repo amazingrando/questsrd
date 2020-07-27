@@ -76,7 +76,7 @@ Introducing money into the game is not likely to seriously reduce compatibility.
 Modifying the inventory system is not likely to seriously reduce compatibility.
 
 <div class="callout">
-|uc|important: compatibility notices</span>
+important: compatibility notices</span>
 
 You may not imply that your works were created by us (The Adventure Guild) or that they are endorsed by us. You MAY indicate intended compatibility with the system by saying things like "An adventure for Quest" or "A ruleset for the Quest roleplaying game," even on the cover of what you make. We also encourage you to have a discussion about compatibility inside of your work to let players know what has changed between your work and the original game.
 </div>
