@@ -8,11 +8,12 @@ order: 2
 <span class="text-uppercase">helping players make characters</span>
 
 We encourage you to remix character creation in Quest and/or create character creation tools. Some creators have already made character generators and other interesting tools that help players through the character creation process. Our character worksheets are very flexible and you can modify them easily to create new types of characters with different blanks to fill.
+
 </div>
 
 ## character worksheets
 
-The Character Profile, Character Worksheet, and Combined Character Profile/Worksheet are open tools under this license. You can find the most recent versions of these documents [on our website's downloads page](https://www.adventure.game/downloads).
+The Character Profile, Character Worksheet, and Combined Character Profile/Worksheet are open tools under this license. You can find the most recent versions of these documents on [Quest's downloads page](https://www.adventure.game/downloads).
 
 ## distinctive features
 
