@@ -10,11 +10,11 @@ export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html, headings } = markdownRemark
   return (
     <Layout>
       <SEO title={frontmatter.title} />
-      <h1>{frontmatter.title}</h1>
+      <h1>{frontmatter.title}</h1>${console.log(headings)}
       <div className="content" dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
@@ -27,6 +27,9 @@ export const pageQuery = graphql`
       frontmatter {
         slug
         title
+      }
+      headings(depth: h1) {
+        value
       }
     }
   }

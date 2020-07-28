@@ -227,6 +227,7 @@ If something is a kit, like a sewing or first aid kit, it only counts as one thi
 <p><span class="text-uppercase">addressing the reader</span></p>
 
 While other parts of this resource have been converted to address Guides and players in the third-person, we recommend that you address the players as "you/your" when possible, especially for the general rules that follow. We've included the general rules in this document with the original language as it was addressed to the reader.
+
 </div>
 
 ## be respectful
