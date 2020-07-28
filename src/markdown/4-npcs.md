@@ -38,7 +38,7 @@ Bosses are special characters of exceptional power and importance. They are majo
 
 <span class="keywords">veteran</span>: Add 4 HP and 1 attack if the creature is highly experienced, like a veteran town guard, a professor of magic, or an ancient elemental.
 
-<span class="keywords">big</span>: Add 10 HP and 1 attack if the crea.ture is much larger than the players, like a bear, a giant spider, or a hill giant.
+<span class="keywords">big</span>: Add 10 HP and 1 attack if the creature is much larger than the players, like a bear, a giant spider, or a hill giant.
 
 <span class="keywords">colossal</span>: Add 40 HP and 4 attack if the creature is orders of magnitude larger than the players, like a sandworm, a kraken, or a titan.
 
@@ -48,7 +48,7 @@ Bosses are special characters of exceptional power and importance. They are majo
 
 <span class="keywords">extra attack</span>: The creature can attack twice during its turn instead of once.
 
-<span class="keywords">evasive</span>: The creature has an extraor.dinary method of movement. Choose one</span>: it can fly, it can climb quickly, it can burrow and travel underground, it can teleport brief distances, or it can outrun other creatures by foot.
+<span class="keywords">evasive</span>: The creature has an extraordinary method of movement. Choose one</span>: it can fly, it can climb quickly, it can burrow and travel underground, it can teleport brief distances, or it can outrun other creatures by foot.
 
 <span class="keywords">lifetap</span>: When the creature damages an adversary, it recovers hit points equal to the amount of damage dealt.
 

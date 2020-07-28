@@ -20,7 +20,7 @@ Here are some things that we look forward to seeing, should you decide to make t
 - New roles and abilities
 - Additional systems for the game, like additional die mechanics, cues or moves for the Guide, or modification of existing systems
 - Tools for players, including character generators, party management tools, encounter generators, or other things that make it easier to play the game
-- Other supplemental content, like puzzles, traps, treasure, clues, chal.lenges, or anything else that makes the game more interesting and fun
+- Other supplemental content, like puzzles, traps, treasure, clues, challenges, or anything else that makes the game more interesting and fun
 - Things we haven't even thought of
 
 Remember: the license for this resource allows you to use anything you see in this document for your own purposes. You can give your things away for free, or sell them. It doesn't make a difference to us personally, but more importantly, it's completely legal for you to take stuff from this document and do whatever you want with it.
@@ -79,6 +79,7 @@ Modifying the inventory system is not likely to seriously reduce compatibility.
 important: compatibility notices</span>
 
 You may not imply that your works were created by us (The Adventure Guild) or that they are endorsed by us. You MAY indicate intended compatibility with the system by saying things like "An adventure for Quest" or "A ruleset for the Quest roleplaying game," even on the cover of what you make. We also encourage you to have a discussion about compatibility inside of your work to let players know what has changed between your work and the original game.
+
 </div>
 
 # our design principles
@@ -115,7 +116,7 @@ Guides have great flexibility in awarding AP to players, but you should take car
 
 You can use this simple guidance for assigning AP costs to custom abilities:
 
-<span class="keywords">0 ap</span>: An essential ability that you expect the player to use constantly. Be especial.ly careful to make free abilities modest in power, and avoid one-note jokes. Every role should have a few zero-cost abilities to let their unique capabilities shine during scenes.
+<span class="keywords">0 ap</span>: An essential ability that you expect the player to use constantly. Be especially careful to make free abilities modest in power, and avoid one-note jokes. Every role should have a few zero-cost abilities to let their unique capabilities shine during scenes.
 
 <span class="keywords">1 ap</span>: A beginner ability that is expected to be used frequently. Consider abilities that cost 1 AP as "core" abilities to the role that demonstrate the role's niche.
 
@@ -145,7 +146,7 @@ Approachability is an important part of accessibility for large audiences. The r
 
 It's good to ask for feedback and test your work with people from different perspectives and backgrounds. But at some point, you need to make strong decisions about how something should look, feel, and play. When you've identified the source of fun in your work and how you think your game should be designed, lean into it.
 
-It's good to consider feedback, but design by committee can end up creating something that tries to appeal to every.one while actually appealing to very few people. You can always change things later if it doesn't work how you expected.
+It's good to consider feedback, but design by committee can end up creating something that tries to appeal to everyone while actually appealing to very few people. You can always change things later if it doesn't work how you expected.
 
 # typography & style
 
@@ -164,19 +165,3 @@ You can see an example of how we might style information hierarchy throughout a 
 Whatever you choose, we recommend you keep your styles consistent. For example, don't mix and match heading styles for different types of information below those headings. Use your styles consistently to let your reader know what kind of information to expect alongside each style.
 
 For inline emphasis, we suggest using Alegreya Sans SC instead of bold or italic text.
-
-# h1: major section
-
-Use big pullquotes to briefly convey a big idea or feeling
-
-You can use Ovo in a larger size when conveying significant information under a major section heading. Use sparingly.
-
-## h2: minor section
-
-Use the same-sized body text throughout the document, except in cases where you are expressing a major idea below a major section heading.
-
-### h3: section detail
-
-Use section detail headings either before body text, or to convey <span class="keywords">emphasis</span>. Make sure use of smallcaps for inline emphasis uses the same line height as your body text.
-
-<span class="keywords">block heading</span>. You can also use section detail headings inline when you have lists that contain more text than would fit comfortably in a bulleted list.

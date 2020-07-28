@@ -252,7 +252,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">signal</span>: Appeal to a local myth to gain the favor of a commoner and receive a favor. <span class="text-uppercase action-point-cost">[3 ap]</span>
 
-<span class="keywords">ritual</span> (D52, Pxx): Appeal to a local myth to gain the favor of a commoner and receive a favor. <span class="text-uppercase action-point-cost">[3 ap]</span>
+<span class="keywords">ritual</span> (Digital pg. 52, Physical pg. xx): Appeal to a local myth to gain the favor of a commoner and receive a favor. <span class="text-uppercase action-point-cost">[3 ap]</span>
 
 ## pathfinder <span class="source">Digital pg. 53 / Physical pg. 76</span>
 
@@ -274,7 +274,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">stalk</span>: You and your party can stalk tracked prey without it noticing you, setting up an ambush. <span class="text-uppercase">[0/2 ap]</span>
 
-<span class="keywords">nemesis</span> (D54, Pxx): You mark a specific creature you have met before as your nemesis, giving you an advantage against it. <span class="text-uppercase action-point-cost">[4 ap]</span>
+<span class="keywords">nemesis</span> (Digital pg. 54, Physical pg. xx): You mark a specific creature you have met before as your nemesis, giving you an advantage against it. <span class="text-uppercase action-point-cost">[4 ap]</span>
 
 ## friend <span class="source">Digital pg. 55 / Physical pg. 78</span>
 
@@ -374,13 +374,13 @@ Abilities are provided per Role, in the following format:
 
 ## healing <span class="source">Digital pg. 67 / Physical pg. 92</span>
 
-<span class="keywords">mend</span> (D67, Pxx): You gently touch a creature, immediately restoring hit points and mending minor wounds. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">mend</span> (Digital pg. 67, Physical pg. xx): You gently touch a creature, immediately restoring hit points and mending minor wounds. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">relieve</span> (D67, Pxx): You say something comforting, relieving a creature of anxiety, pain, and discomfort. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">relieve</span> (Digital pg. 67, Physical pg. xx): You say something comforting, relieving a creature of anxiety, pain, and discomfort. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">heal</span> (D67, Pxx): You embrace a creature, restoring all of its hit points and curing it of short-term impairments. <span class="text-uppercase action-point-cost">[2 ap]</span>
+<span class="keywords">heal</span> (Digital pg. 67, Physical pg. xx): You embrace a creature, restoring all of its hit points and curing it of short-term impairments. <span class="text-uppercase action-point-cost">[2 ap]</span>
 
-<span class="keywords">restore</span> (D67, Pxx): You touch a creature, completely restoring it to its normal state. <span class="text-uppercase action-point-cost">[7 ap]</span>
+<span class="keywords">restore</span> (Digital pg. 67, Physical pg. xx): You touch a creature, completely restoring it to its normal state. <span class="text-uppercase action-point-cost">[7 ap]</span>
 
 ## alteration <span class="source">Digital pg. 68 / Physical pg. 93</span>
 
@@ -646,9 +646,9 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">scry</span>: Flash forward in time to glimpse your actions in the near future. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">see</span> (D97, Pxx): See through all magical deceptions for the next hour. <span class="text-uppercase action-point-cost">[4 ap]</span>
+<span class="keywords">see</span> (Digital pg. 97, Physical pg. xx): See through all magical deceptions for the next hour. <span class="text-uppercase action-point-cost">[4 ap]</span>
 
-<span class="keywords">find</span> (D97, Pxx): Discover the location of an object you have held before, and teleport it to your location. <span class="text-uppercase">[3/3 ap]</span>
+<span class="keywords">find</span> (Digital pg. 97, Physical pg. xx): Discover the location of an object you have held before, and teleport it to your location. <span class="text-uppercase">[3/3 ap]</span>
 
 ## trickery <span class="source">Digital pg. 98 / Physical pg. 127</span>
 
@@ -718,209 +718,209 @@ The Treasure Catalog list in this resource follows the same reference format as 
 
 ## uncommon
 
-<span class="keywords">albatross pendant (d 133, p 176)</span>: A magic communication device that delivers headlines from the Albatross Press.
+<span class="keywords">albatross pendant (Digital pg. 133, Physical pg. 176)</span>: A magic communication device that delivers headlines from the Albatross Press.
 
-<span class="keywords">archive (d 133, p 176)</span>: A talking crystal ball that is programmed to recall information stored inside.
+<span class="keywords">archive (Digital pg. 133, Physical pg. 176)</span>: A talking crystal ball that is programmed to recall information stored inside.
 
-<span class="keywords">atlas incognito (d 133, p 176)</span>: A book of 10 magic stamps that reveals interesting local information.
+<span class="keywords">atlas incognito (Digital pg. 133, Physical pg. 176)</span>: A book of 10 magic stamps that reveals interesting local information.
 
-<span class="keywords">blink blade (d 133, p 176)</span>: A magic sword that can teleport back to its user's hand. <span class="text-uppercase"><2></span>
+<span class="keywords">blink blade (Digital pg. 133, Physical pg. 176)</span>: A magic sword that can teleport back to its user's hand. <span class="text-uppercase"><2></span>
 
-<span class="keywords">brell's boat in a box (d 133, p 176)</span>: A small wooden box that can expand into a real, working sloop.
+<span class="keywords">brell's boat in a box (Digital pg. 133, Physical pg. 176)</span>: A small wooden box that can expand into a real, working sloop.
 
-<span class="keywords">brell's charismatic couture (d 133, p 176)</span>: A line of magical shapeshifting garments that automatically find a perfect fit for their wearer.
+<span class="keywords">brell's charismatic couture (Digital pg. 133, Physical pg. 176)</span>: A line of magical shapeshifting garments that automatically find a perfect fit for their wearer.
 
-<span class="keywords">brell's limitless ledger (d 134, p 177)</span>: A magical networked codex that duplicates entries from linked journals.
+<span class="keywords">brell's limitless ledger (Digital pg. 134, Physical pg. 177)</span>: A magical networked codex that duplicates entries from linked journals.
 
-<span class="keywords">brell's tent in a tin (d 134, p 177)</span>: A magic tin canister that can deploy a large tent.
+<span class="keywords">brell's tent in a tin (Digital pg. 134, Physical pg. 177)</span>: A magic tin canister that can deploy a large tent.
 
-<span class="keywords">dim grimoire (d 134, p 177)</span>: A magic notebook that's risky to read, but can provide great benefits.
+<span class="keywords">dim grimoire (Digital pg. 134, Physical pg. 177)</span>: A magic notebook that's risky to read, but can provide great benefits.
 
-<span class="keywords">discretion (d 135, p 178)</span>: A magic scabbard that can make weapons appear invisible.
+<span class="keywords">discretion (Digital pg. 135, Physical pg. 178)</span>: A magic scabbard that can make weapons appear invisible.
 
-<span class="keywords">field monitor (d 135, p 178)</span>: A magic map that can respond to questions and provide useful information.
+<span class="keywords">field monitor (Digital pg. 135, Physical pg. 178)</span>: A magic map that can respond to questions and provide useful information.
 
-<span class="keywords">friend flute (d 135, p 178)</span>: A magic whistle that knows who your friends are.
+<span class="keywords">friend flute (Digital pg. 135, Physical pg. 178)</span>: A magic whistle that knows who your friends are.
 
-<span class="keywords">glitter bomb (d 135, p 178)</span>: A pouch of magic glitter that dispels invisibility.
+<span class="keywords">glitter bomb (Digital pg. 135, Physical pg. 178)</span>: A pouch of magic glitter that dispels invisibility.
 
-<span class="keywords">goat simulator (d 135, p 178)</span>: A magic stuff toy goat that can turn into a life-sized illusory goat.
+<span class="keywords">goat simulator (Digital pg. 135, Physical pg. 178)</span>: A magic stuff toy goat that can turn into a life-sized illusory goat.
 
-<span class="keywords">healing potion (d 136, p 179)</span>: A potion that heals you. What were you expecting?
+<span class="keywords">healing potion (Digital pg. 136, Physical pg. 179)</span>: A potion that heals you. What were you expecting?
 
-<span class="keywords">kiln gauze (d 136, p 179)</span>: A container of magic gauze that can be used to repair broken metal weapons.
+<span class="keywords">kiln gauze (Digital pg. 136, Physical pg. 179)</span>: A container of magic gauze that can be used to repair broken metal weapons.
 
-<span class="keywords">light trap (d 136, p 179)</span>: A magic glass orb that can be used like a camera.
+<span class="keywords">light trap (Digital pg. 136, Physical pg. 179)</span>: A magic glass orb that can be used like a camera.
 
-<span class="keywords">lying lyre (d 136, p 179)</span>: A magic lyre that guides its user's hands to produce a beautiful song.
+<span class="keywords">lying lyre (Digital pg. 136, Physical pg. 179)</span>: A magic lyre that guides its user's hands to produce a beautiful song.
 
-<span class="keywords">magic potion (d 136, p 179)</span>: A vial filled with magic liquid that has unpredictable effects.
+<span class="keywords">magic potion (Digital pg. 136, Physical pg. 179)</span>: A vial filled with magic liquid that has unpredictable effects.
 
-<span class="keywords">mischievous marbles (d 136, p 179)</span>: A bag of marbles that seeks out creatures to trip.
+<span class="keywords">mischievous marbles (Digital pg. 136, Physical pg. 179)</span>: A bag of marbles that seeks out creatures to trip.
 
-<span class="keywords">not a pipe (d 137, p 180)</span>: This is a pipe. When smoked, it creates a thick magical fog.
+<span class="keywords">not a pipe (Digital pg. 137, Physical pg. 180)</span>: This is a pipe. When smoked, it creates a thick magical fog.
 
-<span class="keywords">permanent solution (d 137, p 180)</span>: A small dropper filled with magic liquid that can permanently bond two things together.
+<span class="keywords">permanent solution (Digital pg. 137, Physical pg. 180)</span>: A small dropper filled with magic liquid that can permanently bond two things together.
 
-<span class="keywords">portable potent potable probe (d 137, p 180)</span>: A small box with a magic dish that can be used to detect poison.
+<span class="keywords">portable potent potable probe (Digital pg. 137, Physical pg. 180)</span>: A small box with a magic dish that can be used to detect poison.
 
-<span class="keywords">quiplasher (d 137, p 180)</span>: A sentient magic whip that loves witty one-liners. <span class="text-uppercase"><3></span>
+<span class="keywords">quiplasher (Digital pg. 137, Physical pg. 180)</span>: A sentient magic whip that loves witty one-liners. <span class="text-uppercase"><3></span>
 
-<span class="keywords">ramification (d 137, p 181)</span>: A magic battering ram that can shatter wooden doors.
+<span class="keywords">ramification (Digital pg. 137, Physical pg. 181)</span>: A magic battering ram that can shatter wooden doors.
 
-<span class="keywords">registrar (d 138, p 181)</span>: A magic book that automatically senses and records the most commonly-used name of a creature that passes nearby.
+<span class="keywords">registrar (Digital pg. 138, Physical pg. 181)</span>: A magic book that automatically senses and records the most commonly-used name of a creature that passes nearby.
 
-<span class="keywords">repeater (d 138, p 181)</span>: A compact magic crossbow. <span class="text-uppercase"><4>[2 ap]</span>
+<span class="keywords">repeater (Digital pg. 138, Physical pg. 181)</span>: A compact magic crossbow. <span class="text-uppercase"><4>[2 ap]</span>
 
-<span class="keywords">silvery horn (d 138, p 181)</span>: An enchanted horn that can send messages far and wide. <span class="text-uppercase action-point-cost">[2 ap]</span>
+<span class="keywords">silvery horn (Digital pg. 138, Physical pg. 181)</span>: An enchanted horn that can send messages far and wide. <span class="text-uppercase action-point-cost">[2 ap]</span>
 
-<span class="keywords">skycaller amulets (d 138, p 181)</span>: Pairs of magic amulets that allow their owners to communicate with each other.
+<span class="keywords">skycaller amulets (Digital pg. 138, Physical pg. 181)</span>: Pairs of magic amulets that allow their owners to communicate with each other.
 
-<span class="keywords">the catcher (d 139, p 182)</span>: A heavy metal gauntlet that allows the wearer to prevent weapon attacks. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">the catcher (Digital pg. 139, Physical pg. 182)</span>: A heavy metal gauntlet that allows the wearer to prevent weapon attacks. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">the howdy doodat (d 139, p 182)</span>: A magic candle that detects illusions.
+<span class="keywords">the howdy doodat (Digital pg. 139, Physical pg. 182)</span>: A magic candle that detects illusions.
 
-<span class="keywords">the lagniappe (d 139, p 182)</span>: A weapon with a little extra damage. <span class="text-uppercase"><3></span>
+<span class="keywords">the lagniappe (Digital pg. 139, Physical pg. 182)</span>: A weapon with a little extra damage. <span class="text-uppercase"><3></span>
 
-<span class="keywords">the left-handed smoke shifter (d 139, p 182)</span>: A metal rod that sends the bearer on an impossible quest.
+<span class="keywords">the left-handed smoke shifter (Digital pg. 139, Physical pg. 182)</span>: A metal rod that sends the bearer on an impossible quest.
 
-<span class="keywords">the sure shot (d 139, p 182)</span>: A magic bow that guides its user's hand. <span class="text-uppercase"><2></span>
+<span class="keywords">the sure shot (Digital pg. 139, Physical pg. 182)</span>: A magic bow that guides its user's hand. <span class="text-uppercase"><2></span>
 
-<span class="keywords">tricky ticket (d 140, p 183)</span>: Magic tickets that can transform into forgeries.
+<span class="keywords">tricky ticket (Digital pg. 140, Physical pg. 183)</span>: Magic tickets that can transform into forgeries.
 
-<span class="keywords">untamed magic broom (d 140, p 183)</span>: A flying broom with its own agenda.
+<span class="keywords">untamed magic broom (Digital pg. 140, Physical pg. 183)</span>: A flying broom with its own agenda.
 
-<span class="keywords">the true witness (d 140, p 183)</span>: A set of linked magic glasses that share perspectives.
+<span class="keywords">the true witness (Digital pg. 140, Physical pg. 183)</span>: A set of linked magic glasses that share perspectives.
 
-<span class="keywords">wraithfire bomb (d 140, p 183)</span>: A dark crystal orb that goes boom. <span class="text-uppercase"><4></span>
+<span class="keywords">wraithfire bomb (Digital pg. 140, Physical pg. 183)</span>: A dark crystal orb that goes boom. <span class="text-uppercase"><4></span>
 
 ## rare
 
-<span class="keywords">abdellahi's scepter (d 141, p 184)</span>: A magic scepter that casts a chilling spell. <span class="text-uppercase"><2></span>
+<span class="keywords">abdellahi's scepter (Digital pg. 141, Physical pg. 184)</span>: A magic scepter that casts a chilling spell. <span class="text-uppercase"><2></span>
 
-<span class="keywords">abyssal brand (d 141, p 184)</span>: An edged weapon forged by a conniving demon. <span class="text-uppercase"><2></span>
+<span class="keywords">abyssal brand (Digital pg. 141, Physical pg. 184)</span>: An edged weapon forged by a conniving demon. <span class="text-uppercase"><2></span>
 
-<span class="keywords">accursed band (d 141, p 184)</span>: A translucent magic bracelet that can detect spirits.
+<span class="keywords">accursed band (Digital pg. 141, Physical pg. 184)</span>: A translucent magic bracelet that can detect spirits.
 
-<span class="keywords">big belt of strong strength (d 141, p 184)</span>: An unusually large belt that makes you feel unusually strong. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">big belt of strong strength (Digital pg. 141, Physical pg. 184)</span>: An unusually large belt that makes you feel unusually strong. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">bonebreaker (d 141, p 184)</span>: A giant hammer imbued with magic force that accelerates the weapon as it is swung. <span class="text-uppercase"><2></span>
+<span class="keywords">bonebreaker (Digital pg. 141, Physical pg. 184)</span>: A giant hammer imbued with magic force that accelerates the weapon as it is swung. <span class="text-uppercase"><2></span>
 
-<span class="keywords">chaos pearls (d 141, p 184)</span>: A bag of luminescent magic pearls that can explode with force.
+<span class="keywords">chaos pearls (Digital pg. 141, Physical pg. 184)</span>: A bag of luminescent magic pearls that can explode with force.
 
-<span class="keywords">dawnbringer (d 141, p 184)</span>: A greathammer imbued with radiant light. <span class="text-uppercase"><2>[2 ap]</span>
+<span class="keywords">dawnbringer (Digital pg. 141, Physical pg. 184)</span>: A greathammer imbued with radiant light. <span class="text-uppercase"><2>[2 ap]</span>
 
-<span class="keywords">death adder (d 141, p 184)</span>: A small magic tally counter that senses nearby deaths. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">death adder (Digital pg. 141, Physical pg. 184)</span>: A small magic tally counter that senses nearby deaths. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">defiance (d 142, p 185)</span>: A silvered short blade that grants the wielder immunity against mind magic. <span class="text-uppercase"><2></span>
+<span class="keywords">defiance (Digital pg. 142, Physical pg. 185)</span>: A silvered short blade that grants the wielder immunity against mind magic. <span class="text-uppercase"><2></span>
 
-<span class="keywords">draconis (d 142, p 185)</span>: A longsword forged in the flame of a dragon's breath. <span class="text-uppercase"><2></span>
+<span class="keywords">draconis (Digital pg. 142, Physical pg. 185)</span>: A longsword forged in the flame of a dragon's breath. <span class="text-uppercase"><2></span>
 
-<span class="keywords">dress of many pockets (d 142, p 185)</span>: A magic dress that deceptively appears to have no pockets. It has many.
+<span class="keywords">dress of many pockets (Digital pg. 142, Physical pg. 185)</span>: A magic dress that deceptively appears to have no pockets. It has many.
 
-<span class="keywords">gideon's shroud (d 143, p 186)</span>: A cloak that makes the wearer undetectable by magic.
+<span class="keywords">gideon's shroud (Digital pg. 143, Physical pg. 186)</span>: A cloak that makes the wearer undetectable by magic.
 
-<span class="keywords">lichblade (d 143, p 186)</span>: The weapon of a banished lich that casts a malevolent aura. <span class="text-uppercase"><2></span>
+<span class="keywords">lichblade (Digital pg. 143, Physical pg. 186)</span>: The weapon of a banished lich that casts a malevolent aura. <span class="text-uppercase"><2></span>
 
-<span class="keywords">masterwork (d 143, p 186)</span>: A weapon of incredible quality that still bears its maker's mark. <span class="text-uppercase"><3></span>
+<span class="keywords">masterwork (Digital pg. 143, Physical pg. 186)</span>: A weapon of incredible quality that still bears its maker's mark. <span class="text-uppercase"><3></span>
 
-<span class="keywords">needful gift box (d 143, p 186)</span>: A small wooden box that can produce an object of value.
+<span class="keywords">needful gift box (Digital pg. 143, Physical pg. 186)</span>: A small wooden box that can produce an object of value.
 
-<span class="keywords">perspicacious pot (d 143, p 186)</span>: A magic pot that can create a recipe.
+<span class="keywords">perspicacious pot (Digital pg. 143, Physical pg. 186)</span>: A magic pot that can create a recipe.
 
-<span class="keywords">portal chalk (d 144, p 187)</span>: A stick of chalk that can open a portal.
+<span class="keywords">portal chalk (Digital pg. 144, Physical pg. 187)</span>: A stick of chalk that can open a portal.
 
-<span class="keywords">professor prim's mind exploder (d 144, p 187)</span>: A magic consumable that bestows a new ability.
+<span class="keywords">professor prim's mind exploder (Digital pg. 144, Physical pg. 187)</span>: A magic consumable that bestows a new ability.
 
-<span class="keywords">scintillating wand (d 144, p 187)</span>: A magic wand that fills the wielder with mischievous thoughts.
+<span class="keywords">scintillating wand (Digital pg. 144, Physical pg. 187)</span>: A magic wand that fills the wielder with mischievous thoughts.
 
-<span class="keywords">scrying sphere (d 144, p 187)</span>: A magic crystal ball that gives the user a glimpse at the future.
+<span class="keywords">scrying sphere (Digital pg. 144, Physical pg. 187)</span>: A magic crystal ball that gives the user a glimpse at the future.
 
-<span class="keywords">scion (d 144, p 187)</span>: A magic pincushion that can detect family relations.
+<span class="keywords">scion (Digital pg. 144, Physical pg. 187)</span>: A magic pincushion that can detect family relations.
 
-<span class="keywords">serpentine staff (d 145, p 188)</span>: A snakewood staff that can transform into a viper. <span class="text-uppercase"><2>[1 ap]</span>
+<span class="keywords">serpentine staff (Digital pg. 145, Physical pg. 188)</span>: A snakewood staff that can transform into a viper. <span class="text-uppercase"><2>[1 ap]</span>
 
-<span class="keywords">spell scroll (d 145, p 188)</span>: A magic scroll enchanted with a spell.
+<span class="keywords">spell scroll (Digital pg. 145, Physical pg. 188)</span>: A magic scroll enchanted with a spell.
 
-<span class="keywords">spirit trap (d 145, p 188)</span>: A crystal orb that attracts and traps spirit creatures nearby.
+<span class="keywords">spirit trap (Digital pg. 145, Physical pg. 188)</span>: A crystal orb that attracts and traps spirit creatures nearby.
 
-<span class="keywords">the bouncer (d 145, p 188)</span>: A magic buckler that turns the table on attackers.
+<span class="keywords">the bouncer (Digital pg. 145, Physical pg. 188)</span>: A magic buckler that turns the table on attackers.
 
-<span class="keywords">the compensator (d 145, p 188)</span>: A broadsword with an envy problem. <span class="text-uppercase"><2></span>
+<span class="keywords">the compensator (Digital pg. 145, Physical pg. 188)</span>: A broadsword with an envy problem. <span class="text-uppercase"><2></span>
 
-<span class="keywords">the eager edge (d 145, p 188)</span>: A sentient magic sword that loves to be used. <span class="text-uppercase"><2></span>
+<span class="keywords">the eager edge (Digital pg. 145, Physical pg. 188)</span>: A sentient magic sword that loves to be used. <span class="text-uppercase"><2></span>
 
-<span class="keywords">the miracle sponge (d 145, p 188)</span>: A sponge with almost no limit to its thirst.
+<span class="keywords">the miracle sponge (Digital pg. 145, Physical pg. 188)</span>: A sponge with almost no limit to its thirst.
 
 ## legendary
 
-<span class="keywords">a magician's key (d 146, p 189)</span>: An obsidian skeleton key that creates a private plane. <span class="text-uppercase action-point-cost">[5 ap]</span>
+<span class="keywords">a magician's key (Digital pg. 146, Physical pg. 189)</span>: An obsidian skeleton key that creates a private plane. <span class="text-uppercase action-point-cost">[5 ap]</span>
 
-<span class="keywords">ancient ranger's pouch (d 146, p 189)</span>: A pouch filled with seeds that grow into sentient tree creatures.
+<span class="keywords">ancient ranger's pouch (Digital pg. 146, Physical pg. 189)</span>: A pouch filled with seeds that grow into sentient tree creatures.
 
-<span class="keywords">bane (d 146, p 189)</span>: A magical dagger that tries to charm nearby creatures. <span class="text-uppercase"><2></span>
+<span class="keywords">bane (Digital pg. 146, Physical pg. 189)</span>: A magical dagger that tries to charm nearby creatures. <span class="text-uppercase"><2></span>
 
-<span class="keywords">blood pact (d 146, p 189)</span>: A sentient blade that curses whoever picks it up to feel an unquenchable bloodthirst. <span class="text-uppercase"><4></span>
+<span class="keywords">blood pact (Digital pg. 146, Physical pg. 189)</span>: A sentient blade that curses whoever picks it up to feel an unquenchable bloodthirst. <span class="text-uppercase"><4></span>
 
-<span class="keywords">cloak of a hundred billion stars (d 146, p 189)</span>: A magic cloak that allows an Invoker to commune with the stars.
+<span class="keywords">cloak of a hundred billion stars (Digital pg. 146, Physical pg. 189)</span>: A magic cloak that allows an Invoker to commune with the stars.
 
-<span class="keywords">conway's comrades (d 147, p 190)</span>: A set of magic toy figurines that can come alive to do battle. <span class="text-uppercase action-point-cost">[4 ap]</span>
+<span class="keywords">conway's comrades (Digital pg. 147, Physical pg. 190)</span>: A set of magic toy figurines that can come alive to do battle. <span class="text-uppercase action-point-cost">[4 ap]</span>
 
-<span class="keywords">cosmic purse (d 147, p 190)</span>: A magic bag that can hold an unlimited number of items.
+<span class="keywords">cosmic purse (Digital pg. 147, Physical pg. 190)</span>: A magic bag that can hold an unlimited number of items.
 
-<span class="keywords">creighton's fascinators (d 147, p 190)</span>: A pair of tall black boots that cast an aura of leadership. <span class="text-uppercase action-point-cost">[5 ap]</span>
+<span class="keywords">creighton's fascinators (Digital pg. 147, Physical pg. 190)</span>: A pair of tall black boots that cast an aura of leadership. <span class="text-uppercase action-point-cost">[5 ap]</span>
 
-<span class="keywords">echo (d 148, p 191)</span>: A ring that duplicates spells and reflects them.
+<span class="keywords">echo (Digital pg. 148, Physical pg. 191)</span>: A ring that duplicates spells and reflects them.
 
-<span class="keywords">fable (d 148, p 191)</span>: A weapon handed down through generations that records the deeds of its wielder. <span class="text-uppercase"><3></span>
+<span class="keywords">fable (Digital pg. 148, Physical pg. 191)</span>: A weapon handed down through generations that records the deeds of its wielder. <span class="text-uppercase"><3></span>
 
-<span class="keywords">guile (d 148, p 191)</span>: A cameo brooch that can create an illusory visage. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">guile (Digital pg. 148, Physical pg. 191)</span>: A cameo brooch that can create an illusory visage. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">gungrox's coin (d 148, p 191)</span>: A smooth platinum coin that randomize a player's role.
+<span class="keywords">gungrox's coin (Digital pg. 148, Physical pg. 191)</span>: A smooth platinum coin that randomize a player's role.
 
-<span class="keywords">harmony (d 148, p 192)</span>: A weathered wooden lute that seeks music through the omniverse. <span class="text-uppercase action-point-cost">[5 ap]</span>
+<span class="keywords">harmony (Digital pg. 148, Physical pg. 192)</span>: A weathered wooden lute that seeks music through the omniverse. <span class="text-uppercase action-point-cost">[5 ap]</span>
 
-<span class="keywords">harper's haven (d 149, p 192)</span>: A small stone figurine with world-shaking power. <span class="text-uppercase action-point-cost">[10 ap]</span>
+<span class="keywords">harper's haven (Digital pg. 149, Physical pg. 192)</span>: A small stone figurine with world-shaking power. <span class="text-uppercase action-point-cost">[10 ap]</span>
 
-<span class="keywords">june's blanket (d 149, p 192)</span>: A patchwork blanket that offers love and comfort. <span class="text-uppercase">[1/4 ap]</span>
+<span class="keywords">june's blanket (Digital pg. 149, Physical pg. 192)</span>: A patchwork blanket that offers love and comfort. <span class="text-uppercase">[1/4 ap]</span>
 
-<span class="keywords">lorelai's wand (d 149, p 192)</span>: A magic wand that imbues the wielder with incredible power.
+<span class="keywords">lorelai's wand (Digital pg. 149, Physical pg. 192)</span>: A magic wand that imbues the wielder with incredible power.
 
-<span class="keywords">loren's luminous starglass (d 150, p 192)</span>: A magic telescope that carries its wielder through the stars. <span class="text-uppercase">[3/9 ap]</span>
+<span class="keywords">loren's luminous starglass (Digital pg. 150, Physical pg. 192)</span>: A magic telescope that carries its wielder through the stars. <span class="text-uppercase">[3/9 ap]</span>
 
-<span class="keywords">multivious map (d 150, p 193)</span>: A sentient map of the stars that loves to pontificate about possibility. <span class="text-uppercase action-point-cost">[1 ap]</span>
+<span class="keywords">multivious map (Digital pg. 150, Physical pg. 193)</span>: A sentient map of the stars that loves to pontificate about possibility. <span class="text-uppercase action-point-cost">[1 ap]</span>
 
-<span class="keywords">nightmare (d 150, p 193)</span>: A greatsword that gives walking nightmares. <span class="text-uppercase"><3></span>
+<span class="keywords">nightmare (Digital pg. 150, Physical pg. 193)</span>: A greatsword that gives walking nightmares. <span class="text-uppercase"><3></span>
 
-<span class="keywords">prismatic circlet (d 150, p 193)</span>: This crystal crown that projects a major illusion. <span class="text-uppercase action-point-cost">[3 ap]</span>
+<span class="keywords">prismatic circlet (Digital pg. 150, Physical pg. 193)</span>: This crystal crown that projects a major illusion. <span class="text-uppercase action-point-cost">[3 ap]</span>
 
-<span class="keywords">resplendent plate (d 151, p 194)</span>: An indomitable breastplate that makes the wearer resistant to attacks.
+<span class="keywords">resplendent plate (Digital pg. 151, Physical pg. 194)</span>: An indomitable breastplate that makes the wearer resistant to attacks.
 
-<span class="keywords">rebellion (d 151, p 194)</span>: An ancient bronze shield that lights the fires of independence. <span class="text-uppercase action-point-cost">[4 ap]</span>
+<span class="keywords">rebellion (Digital pg. 151, Physical pg. 194)</span>: An ancient bronze shield that lights the fires of independence. <span class="text-uppercase action-point-cost">[4 ap]</span>
 
-<span class="keywords">shadow (d 151, p 194)</span>: A magic shortblade forged by a malevolent god that reaps souls. <span class="text-uppercase"><3></span>
+<span class="keywords">shadow (Digital pg. 151, Physical pg. 194)</span>: A magic shortblade forged by a malevolent god that reaps souls. <span class="text-uppercase"><3></span>
 
-<span class="keywords">the cosmic cruiser (d 151, p 194)</span>: A magic starship that can travel through space and the omniverse. <span class="text-uppercase">[3/9 ap]</span>
+<span class="keywords">the cosmic cruiser (Digital pg. 151, Physical pg. 194)</span>: A magic starship that can travel through space and the omniverse. <span class="text-uppercase">[3/9 ap]</span>
 
-<span class="keywords">the toll (d 152, p 195)</span>: An iridescent coin that offers eternal paradise.
+<span class="keywords">the toll (Digital pg. 152, Physical pg. 195)</span>: An iridescent coin that offers eternal paradise.
 
-<span class="keywords">unity (d 152, p 195)</span>: A magic pin allowing the wearer to comprehend languages.
+<span class="keywords">unity (Digital pg. 152, Physical pg. 195)</span>: A magic pin allowing the wearer to comprehend languages.
 
-<span class="keywords">vol (d 152, p 195)</span>: A magic spear that can become a bolt of lightning. <span class="text-uppercase"><3></span>
+<span class="keywords">vol (Digital pg. 152, Physical pg. 195)</span>: A magic spear that can become a bolt of lightning. <span class="text-uppercase"><3></span>
 
 ## supreme
 
-<span class="keywords">conservator's ring (d 153, p 196)</span>: An unimaginably powerful ring that can consume universes. <span class="text-uppercase action-point-cost">[9 ap]</span>
+<span class="keywords">conservator's ring (Digital pg. 153, Physical pg. 196)</span>: An unimaginably powerful ring that can consume universes. <span class="text-uppercase action-point-cost">[9 ap]</span>
 
-<span class="keywords">cosmic forge (d 153, p 196)</span>: An obsidian ring that allows the bearer to conjure any object into existence.
+<span class="keywords">cosmic forge (Digital pg. 153, Physical pg. 196)</span>: An obsidian ring that allows the bearer to conjure any object into existence.
 
-<span class="keywords">dubbin's dire die (d 154, p 197)</span>: A 20-sided die that bends the fate of nearby creatures. <span class="text-uppercase action-point-cost">[4 ap]</span>
+<span class="keywords">dubbin's dire die (Digital pg. 154, Physical pg. 197)</span>: A 20-sided die that bends the fate of nearby creatures. <span class="text-uppercase action-point-cost">[4 ap]</span>
 
-<span class="keywords">it whispers to you (d 154, p 197)</span>: A humble ring that bestows a terrible and cursed power.
+<span class="keywords">it whispers to you (Digital pg. 154, Physical pg. 197)</span>: A humble ring that bestows a terrible and cursed power.
 
-<span class="keywords">the hand (d 154, p 197)</span>: A pocketwatch that can travel through time. <span class="text-uppercase">[3/9 ap]</span>
+<span class="keywords">the hand (Digital pg. 154, Physical pg. 197)</span>: A pocketwatch that can travel through time. <span class="text-uppercase">[3/9 ap]</span>
 
-<span class="keywords">wish heart (d 155, p 198)</span>: A magic locket that turns wishes into reality.
+<span class="keywords">wish heart (Digital pg. 155, Physical pg. 198)</span>: A magic locket that turns wishes into reality.
 
 ## end of treasure catalog
 
