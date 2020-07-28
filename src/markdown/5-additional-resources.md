@@ -25,7 +25,7 @@ Here are some things that we look forward to seeing, should you decide to make t
 
 Remember: the license for this resource allows you to use anything you see in this document for your own purposes. You can give your things away for free, or sell them. It doesn't make a difference to us personally, but more importantly, it's completely legal for you to take stuff from this document and do whatever you want with it.
 
-# compatibility
+# <a id="compatibility"></a>compatibility
 
 ## an endless omniverse
 
@@ -82,7 +82,7 @@ You may not imply that your works were created by us (The Adventure Guild) or th
 
 </div>
 
-# our design principles
+# <a id="our design principles"></a>our design principles
 
 Quest is meant to welcome entirely new players to tabletop roleplaying, meaning players who have never experienced this kind of game before. You don't have to address this audience in your own works, but if you want to make things that complement our designs, you can take inspiration from these principles.
 
@@ -148,7 +148,7 @@ It's good to ask for feedback and test your work with people from different pers
 
 It's good to consider feedback, but design by committee can end up creating something that tries to appeal to everyone while actually appealing to very few people. You can always change things later if it doesn't work how you expected.
 
-# typography & style
+# <a id="typography & style"></a>typography & style
 
 ## basic style guide
 

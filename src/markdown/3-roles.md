@@ -100,7 +100,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">ability name</span>: Short ability description. <span class="text-uppercase">[ap cost]</span>
 
-# the fighter
+# <a id="the fighter"><a>the fighter
 
 ## dueling <span class="source">Digital pg. 35 / Physical pg. 56</span>
 
@@ -168,7 +168,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">steel pact</span>: Form a permanent, extraordinary bond with one of your weapons.
 
-# the invoker
+# <a id="the invoker"><a>the invoker
 
 ## invocation <span class="source">Digital pg. 42-43 / Physical pg. 64-65</span>
 
@@ -234,7 +234,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">eternity gate</span>: You project yourself past all realities into the beyond to seek and find a single truth. <span class="text-uppercase action-point-cost">[7 ap]</span>
 
-# the ranger
+# <a id="the ranger"><a>the ranger
 
 ## story and song <span class="source">Digital pg. 51 / Physical pg. 74</span>
 
@@ -296,7 +296,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">friend of the land</span>: You become the friend of a wilderness region, gaining the control of a natural fortress.
 
-# the naturalist
+# <a id="the naturalist"><a>the naturalist
 
 ## shapeshifter <span class="source">Digital pg. 58 / Physical pg. 82</span>
 
@@ -370,7 +370,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">world wish</span>: You return a crafted object to nature, instantly reducing it to dust.
 
-# the doctor
+# <a id="the doctor"><a>the doctor
 
 ## healing <span class="source">Digital pg. 67 / Physical pg. 92</span>
 
@@ -444,7 +444,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">the bitter gift</span>: You bestow a creature with self-awareness, turning it into a person like you. <span class="text-uppercase action-point-cost">[9 ap]</span>
 
-# the spy
+# <a id="the spy"><a>the spy
 
 ## charisma <span class="source">Digital pg. 75 / Physical pg. 102</span>
 
@@ -518,7 +518,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">nightcrawler</span>: Infiltrate a person's office, encampment, or home to discover sensitive information about them. <span class="text-uppercase action-point-cost">[4 ap]</span>
 
-# the magician
+# <a id="the magician"><a>the magician
 
 ## misdirection <span class="source">Digital pg. 84 / Physical pg. 112</span>
 
@@ -592,7 +592,7 @@ Abilities are provided per Role, in the following format:
 
 <span class="keywords">invasion</span>: Enter the dream of a creature to implant an idea in their mind. <span class="text-uppercase action-point-cost">[5 ap]</span>
 
-# the wizard
+# <a id="the wizard"><a>the wizard
 
 ## evocation <span class="source">Digital pg. 93 / Physical pg. 122</span>
 
@@ -714,7 +714,7 @@ The Treasure Catalog list in this resource follows the same reference format as 
 > treasure item name |p|d xx / p xx</span>
 > (Digital Page Number, Physical Page Number): Short treasure description. <span class="text-uppercase"><damage>[ap cost]</span>
 
-# treasure catalog
+# <a id="treasure catalog"><a>treasure catalog
 
 ## uncommon
 
