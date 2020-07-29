@@ -31,7 +31,9 @@ const Header = ({ siteTitle }) => {
   return (
     <header className="site-header">
       <div className="site-header__content">
-        <img src={logo} alt={siteTitle} className="site-header__logo" />
+        <Link to="/">
+          <img src={logo} alt={siteTitle} className="site-header__logo" />
+        </Link>
         <nav className="nav">
           <FontAwesomeIcon
             icon={faBars}

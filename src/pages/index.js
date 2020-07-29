@@ -6,36 +6,38 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Rules</h1>
-    <p>Quest works best with 4-6 players.</p>
+    <h1>Quest Roleplaying Game</h1>
     <p>
-      First, choose one player to be the guide. The Guide plays as the story’s
-      narrator.
+      Quest is a retreat from your worries and obligations. It’s a chance to sit
+      down with your friends and spend quality time with each other.
     </p>
+
     <p>
-      Everyone else will create one of the story’s main characters, and then
-      play as the character they created. These player characters are allies in
-      an adventuring group called the party.
+      Together, you’ll go on a thrilling journey in a fantastic world of your
+      shared imagination. The rules of the game help you tell a story that’s
+      totally unique — no two games are the same, and the possibilities are
+      endless.
     </p>
+
     <p>
-      The Guide plays the part of the world around the party, like the director
-      of a movie. They imagine the people, places, and things the party
-      encounters. Then, they help everyone imagine the world of the game by
-      describing it.
+      The game is easy to learn, and you only need a few things to get started —
+      some friends, a pen, some paper, a 20-sided die, and the Game Book.{" "}
     </p>
+
     <p>
-      The Guide also plays the part of all of the characters in the story, like
-      towns- people and monsters. We call them non-player characters, or npcs.
+      When you gather to play Quest, you’ll learn how to tell a story that you
+      won’t forget. If you and your friends have a good time, you might even
+      continue the story for years to come.
     </p>
-    <p>
-      Finally, the Guide is responsible for creating consequences for the
-      party’s actions. That means imagining what happens next when a player
-      springs a trap or makes an NPC angry.
-    </p>
-    <p>
-      The Guide and the party have different responsibilities, but they are
-      equals — partners in storytelling.
-    </p>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube-nocookie.com/embed/_vYcuIWOWNc"
+      frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      title="video"
+    ></iframe>
   </Layout>
 )
 

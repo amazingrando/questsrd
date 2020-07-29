@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Quest SRD`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `The Creators Resource from Quest allows anyone to design and create content for Quest, including adventures, new roles & abilities, or anything else you can imagine.`,
     author: `@amazingrando`,
   },
   plugins: [
@@ -26,11 +26,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `quest-srd`,
+        short_name: `quest`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#232222`,
+        theme_color: `#232222`,
         display: `minimal-ui`,
       },
     },
@@ -41,6 +41,28 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./src/images/favicon.png",
+
+        // WebApp Manifest Configuration
+        background: "#232222",
+        theme_color: "#232222",
+        orientation: "any",
+
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          yandex: false,
+          windows: false,
+        },
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
