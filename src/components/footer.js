@@ -23,7 +23,8 @@ const Footer = ({ siteTitle }) => {
         <span role="img" aria-label="love">
           ❤️
         </span>{" "}
-        by <a href="https://twitter.com/amazingrando">@amazingrando</a>
+        by <a href="https://twitter.com/amazingrando">@amazingrando</a> and{" "}
+        <a href="https://twitter.com/rabbitDumpling">@rabbitDumpling</a>
       </p>
     </footer>
   )
